@@ -9,35 +9,35 @@
   ],
   "files": [
     {
-      "name": "system/Interface.u",
+      "name": "system_season/Interface.u",
       "url": "https://github.com/casper1new1-lgtm/dex/raw/refs/heads/main/Interface.u"
     },
     {
-      "name": "system/lineageeffect.u",
+      "name": "system_season/lineageeffect.u",
       "url": "https://github.com/casper1new1-lgtm/dex/raw/refs/heads/main/lineageeffect.u"
     },
 	{
-      "name": "system/lineageeffect2a.u",
+      "name": "system_season/lineageeffect2a.u",
       "url": "https://github.com/casper1new1-lgtm/dex/raw/refs/heads/main/lineageeffect2a.u"
     },
 	{
-      "name": "system/LineageSkillEffect.u",
+      "name": "system_season/LineageSkillEffect.u",
       "url": "https://github.com/casper1new1-lgtm/dex/raw/refs/heads/main/LineageSkillEffect.u"
     },
 	{
-      "name": "system/LineageEffect3a.u",
+      "name": "system_season/LineageEffect3a.u",
       "url": "https://github.com/casper1new1-lgtm/dex/raw/refs/heads/main/LineageEffect3a.u"
     },
 	{
-      "name": "system/user.ini",
+      "name": "system_season/user.ini",
       "url": "https://github.com/casper1new1-lgtm/dex/raw/refs/heads/main/user.ini"
     },
 	{
-      "name": "system/Nwindow.dll",	  
+      "name": "system_season/Nwindow.dll",	  
       "url": "https://github.com/casper1new1-lgtm/dex/raw/refs/heads/main/Nwindow.dll"
     },
 	{
-      "name": "system/Core.dll",
+      "name": "system_season/Core.dll",
       "url": "https://github.com/casper1new1-lgtm/dex/raw/refs/heads/main/Core.dll"
     }
   ]
